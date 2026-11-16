@@ -1,0 +1,7 @@
+/build/
+/dist/
+*.class
+*.log
+
+# NetBeans private settings
+/nbproject/private/
